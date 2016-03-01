@@ -1,0 +1,7 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations Rahim</h1>
+  This is your new Page
+  <h1>Product Catalog</h1>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
